@@ -29,4 +29,3 @@ You can clone this repository and explore the code to understand the process and
 
 Feel free to reach out if you have any questions or need further information.
 
-Author: flwkf
